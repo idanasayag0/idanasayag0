@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idanasayag0&label=Profile%20views&color=0e75b6&style=flat" alt="idanasayag0" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Html, CSS, JavaScript, React, Java, Node, Express**
+- 🌱 I’m currently learning **Html, CSS, JavaScript, React, TypeScript, Node, Express**
 
 - 📫 How to reach me **idanasayag0@gmail.com**
 
